@@ -160,7 +160,7 @@ An automated eligibility auditor. Point it at a scholarship, internship or hacka
 
 <div align="center">
 
-<a href="mailto:angshumanbhagat414@gmail.com"><img src="https://img.shields.io/badge/Email-F56217?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="angshumanbhagat414@gmail.com"><img src="https://img.shields.io/badge/Email-F56217?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/angshuman-bhagat-profilevisit/"><img src="https://img.shields.io/badge/LinkedIn-0B486B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/anxshh007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
