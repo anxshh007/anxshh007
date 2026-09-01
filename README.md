@@ -20,7 +20,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About me
+## 🛰️ About me
 
 ```yaml
 name:      Angshuman Bhagat
@@ -39,7 +39,7 @@ quirk:     hand-derived backprop in NumPy — no PyTorch, no GPU, runs offline
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech I build with
+## ⚙️ Tech I build with
 
 <div align="center">
 
@@ -58,7 +58,7 @@ quirk:     hand-derived backprop in NumPy — no PyTorch, no GPU, runs offline
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> What I'm building
+## 🚀 What I'm building
 
 <table>
 <tr>
@@ -119,24 +119,20 @@ An automated eligibility auditor. Point it at a scholarship, internship or hacka
 
 <br>
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub in numbers
+## 📊 GitHub in numbers
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anxshh007&show_icons=true&count_private=true&hide_border=true&title_color=F56217&icon_color=F56217&text_color=c9d1d9&bg_color=0d1117" />
-<img height="170" src="https://streak-stats.demolab.com?user=anxshh007&hide_border=true&background=0d1117&stroke=F56217&ring=F56217&fire=FFD194&currStreakLabel=F56217&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img height="180" src="https://streak-stats.demolab.com?user=anxshh007&hide_border=true&background=0d1117&stroke=F56217&ring=F56217&fire=FFD194&currStreakLabel=F56217&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxshh007&layout=compact&hide_border=true&langs_count=8&title_color=F56217&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anxshh007&theme=github_dark" alt="languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxshh007&theme=github_dark" alt="languages by commit" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anxshh007&bg_color=0d1117&color=F56217&line=FFD194&point=ffffff&area=true&hide_border=true" width="95%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anxshh007&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anxshh007&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 </div>
 
@@ -160,8 +156,8 @@ An automated eligibility auditor. Point it at a scholarship, internship or hacka
 
 <div align="center">
 
-<a href="angshumanbhagat414@gmail.com"><img src="https://img.shields.io/badge/Email-F56217?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/angshuman-bhagat-profilevisit/"><img src="https://img.shields.io/badge/LinkedIn-0B486B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-F56217?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B486B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/anxshh007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
